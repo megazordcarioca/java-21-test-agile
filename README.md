@@ -15,7 +15,7 @@ An E-Commerce basic Restful API Java challenge implementing a basic CRUD for Tec
 - [Spring MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [SpringDoc OpenAPI 3](https://springdoc.org/)
-- [PostgreSQL](https://https://www.postgresql.org/)
+- [PostgreSQL](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/)
 - [JUnit](https://junit.org/junit4/)
 - [Mockito](https://site.mockito.org/)
