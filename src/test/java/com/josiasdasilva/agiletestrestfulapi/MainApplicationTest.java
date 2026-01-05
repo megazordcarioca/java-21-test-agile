@@ -1,10 +1,10 @@
-package com.agileengine.testcode.main;
+package com.josiasdasilva.agiletestrestfulapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MainApplicationTests {
+class MainApplicationTest {
 
 	@Test
 	void contextLoads() {
